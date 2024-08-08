@@ -1,0 +1,20 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#Title {
+  text-align: center;
+}
+
+#info {
+  font-family: 'Courier Prime', monospace;
+}
+
+h1 {
+  text-align: center;
+}
+
+body {
+  color: green;
+}
